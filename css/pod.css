@@ -1,0 +1,124 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+    text-decoration: none;
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    font-variation-settings:
+      "slnt" 0;
+}
+body{
+    background-color: rgb(21, 21, 21);
+}
+header{
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(33, 32, 42);
+    padding: 30px 100px;
+    display: flex;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+button{
+    display: inline-block;
+    padding: 5px 10px;
+    color: rgb(255, 255, 255);
+    background-color: transparent;
+    user-select: none;
+    line-height: 1.5;
+    cursor: pointer;
+    border: 3px solid rgb(4, 82, 178);
+}
+.hr{
+    padding: 20px 0px;
+    margin: 0px 50px;
+}
+.aa{
+    color: white;
+}
+.aa:hover{
+    color: rgb(4, 82, 178);
+}
+.aa{
+    position: relative;
+    display: inline-block;
+    margin: 0px 10px;
+}
+.aa .bomba{
+    display: block;
+    position: absolute;
+    bottom: -7px; 
+    left: 0;
+    height: 3px; 
+    width: 100%; 
+    background-color: rgb(4, 82, 178); 
+    border-radius: 2px;
+}
+.lool{
+    margin: 40px 300px;
+}
+.color{
+    background-color: rgb(33, 32, 42);
+    padding: 10px 20px;
+}
+.color:hover{
+    background-color: rgb(4, 82, 178);
+}
+.pod{
+    margin: 20px 240px;
+}
+.pod12{
+    background-color: rgb(33, 32, 42);
+    padding: 20px 20px;
+}
+.pod12:hover{
+    opacity: .8;
+    background-color: rgb(68, 67, 80);
+}
+.q{
+    margin: 0px 5px;
+}
+footer{
+    background-color: rgb(33, 32, 42);
+}
+.don{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 60px;
+    align-items: center;
+}
+.one{
+    padding: 20px;
+}
+.but{
+    color: rgb(0, 0, 111);
+    background-color: rgb(255, 255, 255);
+    padding: 10px  100px;
+    display: inline-block;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: 400;
+    font-style: normal;
+}
+.non{
+    display: flex;
+    padding:  0 40px;
+}
+.two{
+    padding: 20px;
+    margin: 50px 20px;
+}
+.ther{
+    padding: 20px;
+    margin: 50px 20px;
+}
+.therr{
+    padding: 20px;
+    margin: 20px 20px;
+}
